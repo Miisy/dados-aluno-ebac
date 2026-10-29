@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Thamires
+-Profissão: Desenvolvedora
+-Cidade: Barueri
+-O que faz nas horas vaga: Leio e jogo
+-Feedback sobre o curso Qualidade de Software: Até o momento achei bem simples, normlamente consigo acompanhar pelos pdfs que o professor utiliza. Não sei se é pelo meu conhecimento prévio de programação, etc mas está bem tranquilo fazer.
+-Feedback sobre a plataforma de estudo da EBAC: Acho interessante... Mas seria PERFEITO que houvesse um modo escuro. Me momento melhor para estudo é de noite ou madrugada, o que atrapalha os olhos.
 
 Obrigado!!!
-
-
